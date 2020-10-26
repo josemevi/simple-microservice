@@ -1,0 +1,30 @@
+{
+  "name": "simple-microservice",
+  "version": "1.0.0",
+  "description": "Introduction to microservices using node only",
+  "guide": "https://nodesource.com/blog/microservices-in-nodejs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josemevi/simple-microservice.git"
+  },
+  "keywords": [
+    "node",
+    "microservice"
+  ],
+  "author": "Josemevi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josemevi/simple-microservice/issues"
+  },
+  "homepage": "https://github.com/josemevi/simple-microservice#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {}
+}
