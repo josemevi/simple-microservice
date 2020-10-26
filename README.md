@@ -25,7 +25,7 @@ to access the second function, navigate to:
  
   http://localhost:3000/distance/[USzipCode1]/[USzipCode2]
   
-Where [USzipCode1] and [USzipCode2] must be valids ZIP codes from USA, you can find a oficial list of USA codes here: http://phaster.com/zip_code.html.
+Where [USzipCode1] and [USzipCode2] must be valid ZIP codes from USA, you can find a oficial list of USA ZIP codes here: http://phaster.com/zip_code.html.
   
 A valid request looks like this e.g: http://localhost:3000/distance/84010/97229
  
